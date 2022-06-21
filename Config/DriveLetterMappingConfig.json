@@ -1,0 +1,8 @@
+{
+  "driveLetterMapping": [
+    {
+      "volumeName": "Sample Volume",
+      "driveLetter": "D"
+    }
+  ]
+}
